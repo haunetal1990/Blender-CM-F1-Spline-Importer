@@ -37,6 +37,8 @@ This plugin has been successfully tested with:
 | Roads/Splines | ✅ |
 | Cameras | ✅ |
 
+---
+
 Dieses Plugin ermöglicht den Import von AI-Splines und Kamerapfaden aus Codemasters F1-Spielen direkt in Blender. 
 
 ## Voraussetzungen
