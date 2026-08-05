@@ -28,7 +28,7 @@ Before you begin, make sure you have the following software ready to use:
 ## Compatibility
 This plugin has been successfully tested with:
 *   **F1 22**
-*   **F1 24** (tested with 26 tracks)
+*   **F1 25** (tested with 26 tracks)
 
 ## Supported Features
 
