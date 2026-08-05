@@ -4,7 +4,7 @@
 
 This plugin allows you to import AI splines (racing lines) and camera paths from Codemasters F1 games directly into Blender.
 
-## Prerequisites
+## Requisites
 
 Before you begin, make sure you have the following software ready to use:
 *   **Ego ERP Archiver**: For opening and extracting the game files.
