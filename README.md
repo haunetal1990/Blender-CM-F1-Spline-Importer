@@ -9,7 +9,7 @@ Before you begin, make sure you have the following software ready to use:
 *   **Blender**: For the 3D import.
 *   **This Plugin**: Downloaded and installed in Blender.
 
-## 📖 Instructions
+## Instructions
 
 ### 1. Extract the Spline File
 1.  Open the **Ego ERP Archiver**.
@@ -37,7 +37,7 @@ This plugin has been successfully tested with:
 
 Dieses Plugin ermöglicht den Import von AI-Splines und Kamerapfaden aus Codemasters F1-Spielen direkt in Blender. 
 
-## 🛠 Voraussetzungen
+## Voraussetzungen
 
 Bevor du startest, stelle sicher, dass folgende Software einsatzbereit ist:
 * **Ego ERP Archiver**: Zum Öffnen und Extrahieren der Spieldateien.
