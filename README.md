@@ -1,6 +1,6 @@
 ![alt text](https://i.postimg.cc/JzcRRC9v/Screenshot-2026-08-05-083953.png "Screenshot Blender")
 
-# Codemasters F1 Spline to Blender Importer
+# Blender Codemasters F1 Spline to Blender Importer
 
 This plugin allows you to import AI splines (racing lines) and camera paths from Codemasters F1 games directly into Blender.
 
