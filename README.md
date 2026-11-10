@@ -77,4 +77,4 @@ Das Plugin wurde erfolgreich getestet mit:
 ---
 
 ## Topics
-https://forum.studio-397.com/index.php?threads/blender-plugins-from-me.73647/
+[Studio397 Forum](https://forum.studio-397.com/index.php?threads/blender-plugins-from-me.73647/)
